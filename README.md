@@ -43,4 +43,4 @@ La prima rulare, aplicația va solicita permisiuni pentru accesul la microfon. U
 Acest proiect este disponibil pentru uz personal și educațional.
 
 ## Autor
-Dezvoltat de Marius
+Marius
